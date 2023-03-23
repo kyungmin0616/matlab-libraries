@@ -1,0 +1,4 @@
+
+
+clear functions
+ncquiet;
